@@ -1,0 +1,16 @@
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\Empresas.Data.dll.config
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\Empresas.Data.dll
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\Empresas.Data.pdb
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\obj\Debug\Empresas.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\obj\Debug\Empresas.Data.dll
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\obj\Debug\Empresas.Data.pdb
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\Microsoft.Owin.dll
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\Owin.dll
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\System.Web.Cors.dll
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\Microsoft.Owin.xml
+C:\Projetos\Ioasys\Ioasys\App_Empresaas\Empresas.Data\bin\Debug\Microsoft.Owin.Cors.xml
