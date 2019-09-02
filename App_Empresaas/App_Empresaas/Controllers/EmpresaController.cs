@@ -16,19 +16,46 @@ namespace App_Empresaas.Controllers
         [Route("api/1.0/enterprises")]
         public IHttpActionResult Get()
         {
-            return Ok(new EmpresaService().Listar());
+            try
+            {
+                return Ok(new EmpresaService().Listar());
+            }
+            catch (Exception)
+            {
+
+                return BadRequest();
+            }
+            
         }
 
         [Route("api/1.0/enterprises/{id}")]
         public IHttpActionResult Get(int id)
         {
-            return Ok(new EmpresaService().Retornar(id));
+            try
+            {
+                return Ok(new EmpresaService().Retornar(id));
+            }
+            catch (Exception)
+            {
+
+                return BadRequest();
+            }
+            
         }
 
         [Route("api/1.0/enterprises")]
         public IHttpActionResult Get(string nome, int id)
         {
-            return Ok(new EmpresaService().Listar(nome, id));
+            try
+            {
+                return Ok(new EmpresaService().Listar(nome, id));
+            }
+            catch (Exception)
+            {
+
+                return BadRequest();
+            }
+            
         }
     }
 }
